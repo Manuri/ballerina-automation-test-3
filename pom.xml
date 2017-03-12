@@ -41,7 +41,7 @@
     </build>
 
     <properties>
-        <test1.version>1.0.24</test1.version>
+        <test1.version>1.0.25</test1.version>
         <log4j.version>2.8</log4j.version>
         <project.scm.id>my-scm-server</project.scm.id>
     </properties>
