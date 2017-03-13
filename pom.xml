@@ -34,7 +34,7 @@
                 <version>2.5.3</version>
                 <configuration>
                     <tagNameFormat>v@{project.version}</tagNameFormat>
-                    <goals>install</goals>
+                    <!--<goals>install</goals>-->
                 </configuration>
             </plugin>
         </plugins>
