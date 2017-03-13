@@ -4,13 +4,13 @@
 
     <groupId>org.manuri</groupId>
     <artifactId>test1</artifactId>
-    <version>1.0.8-SNAPSHOT</version>
+    <version>1.0.8</version>
 
     <scm>
         <url>https://github.com/manuri/ballerina-automation-test-3.git</url>
         <developerConnection>scm:git:https://github.com/manuri/ballerina-automation-test-3.git</developerConnection>
         <connection>scm:git:https://github.com/manuri/ballerina-automation-test-3.git</connection>
-        <tag>HEAD</tag>
+        <tag>v1.0.8</tag>
     </scm>
 
     <dependencies>
